@@ -5,7 +5,7 @@ PowerShell script that 7-Zips and then transfers a directory and contents via BI
 Recursively compresses a directory of files and subdirectories to a  7-zipped archive.  Copies via BITS to the specified server.
 
 ## Version
-Version 0.01/02-MAR-2020 by Geoff Gariepy (geoff.gariepy@coop.org)
+Version 0.01/02-MAR-2020 by Geoff Gariepy (geoff@gariepy.dev)
 
 
 ## SYNTAX
