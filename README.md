@@ -23,7 +23,7 @@ Visit https://www.7-zip.org to obtain this utility.  You will want the 64-bit ve
 If the 7-zip utility is not present, execution will stop with an error message.
 
 
-#PARAMETERS
+## PARAMETERS
     
 *-SourceDir <String>*
 
